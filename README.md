@@ -27,8 +27,7 @@ It’s built with maintainability in mind: annotated code, modular nodes, and cl
 
 Here’s a sneak peek of the GUI interface used to control the servo motor interactively:
 
-📸 *Upload your GUI screenshot here*  
-*(Drag and drop your image into this section once it's ready)*
+<img width="602" height="639" alt="Screenshot from 2025-09-13 04-03-26" src="https://github.com/user-attachments/assets/2347629c-e499-4ba5-be47-fc248789955b" />
 
 > The GUI allows real-time angle adjustment, feedback monitoring, and manual override. It’s built using Python and integrates seamlessly with ROS 2 topics.
 
